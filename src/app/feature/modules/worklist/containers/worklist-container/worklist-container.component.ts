@@ -57,7 +57,7 @@ export class WorklistContainerComponent implements OnInit {
             dismissableMask: false,
             transitionOptions: '350ms cubic-bezier(0.25, 0.8, 0.25, 1)',
             modal: true,
-            style: {'max-width': '1200px'},
+            style: {'max-width': '600px'},
             styleClass: 'details-modal'
         });
 

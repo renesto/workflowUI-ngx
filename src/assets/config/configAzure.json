@@ -9,7 +9,7 @@
             "value": "ru"
         }
     ],
-    "REST_API_URL": "/workflow/rest",
+    "REST_API_URL": "/iris/workflow/rest",
     "TASKS_LIMIT": 10000
 }
 
